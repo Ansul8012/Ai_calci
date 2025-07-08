@@ -28,7 +28,7 @@ This is the frontend for the AI Calculator project, built with React, TypeScript
 
 ## Backend Repository
 
-You can find the backend code here: [calc-be GitHub Repository](https://github.com/your-backend-repo-link) <!-- Replace with your actual backend repo link -->
+You can find the backend code here: [calc-be GitHub Repository](https://github.com/Ansul8012/Calci_backend) <!-- Replace with your actual backend repo link -->
 
 ## Live Demo
 
